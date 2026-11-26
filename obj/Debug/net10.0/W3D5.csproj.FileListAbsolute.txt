@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.AssemblyInfo.cs
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\W3D5\bin\Debug\net10.0\W3D5.exe
+C:\Users\User\Desktop\W3D5\bin\Debug\net10.0\W3D5.deps.json
+C:\Users\User\Desktop\W3D5\bin\Debug\net10.0\W3D5.runtimeconfig.json
+C:\Users\User\Desktop\W3D5\bin\Debug\net10.0\W3D5.dll
+C:\Users\User\Desktop\W3D5\bin\Debug\net10.0\W3D5.pdb
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.dll
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\refint\W3D5.dll
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.pdb
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\W3D5.genruntimeconfig.cache
+C:\Users\User\Desktop\W3D5\obj\Debug\net10.0\ref\W3D5.dll
